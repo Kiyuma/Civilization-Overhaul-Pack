@@ -1,6 +1,6 @@
 # Civilization Overhaul Mod
 
-My personal mod overhauls all five main civilizations (dwarves, elves, humans, goblins, and kobolds), giving each far more depth—and even making them playable—while still staying true to their vanilla counterparts.
+My personal mod overhauls all five main civilizations (dwarves, elves, humans, goblins, and kobolds), giving each far more depth, and even making them playable, while still staying true to their vanilla counterparts.
 
 Originally, I intended this mod for the Steam version, but I completely forgot that you need the in-game mod uploader in the premium version, which I haven’t purchased. So for now you will need to manually install the mod yourself.
 
@@ -25,13 +25,13 @@ Originally, I intended this mod for the Steam version, but I completely forgot t
 ### 4. Playable Races
 * Dwarfs: The good old vanilla dwarven civilization, now with more in-depth feature
 
-* Humans: Mostly vanilla—humans can do everything except produce steel and coke. Their civilization gains proper social positions, just like the dwarves.
+* Humans: Mostly vanilla, humans can do everything except produce steel and coke. Their civilization gains proper social positions, just like the dwarves.
 
 * Goblins: Similar to humans but universally hated and inherently evil, just like in vanilla. Their social hierarchy now better reflects their brutal culture. Leaders (kings, generals, etc.) can command military squads and carry out executions personally.
 
-* Elves: I wanted to keep elves as close to vanilla as possible, so I made them a true “hard mode.” They have no industry beyond woodcraft—they can’t dig or chop trees. Instead, I added a new High Elf caste with the ability to conjure wood through a special "ritual": make the High Elf stand in the water (any level) and let them talk with other elfs, after a while they will be able to conjure 10 feather wood logs for you to use. High Elves make up about 4% of the elf population and always occupy leadership roles—good luck finding them
+* Elves: I wanted to keep elves as close to vanilla as possible, so I made them a true “hard mode.” They have no industry beyond woodcraft, they can’t dig or chop trees. Instead, I added a new High Elf caste with the ability to conjure wood through a special "ritual": make the High Elf stand in the water (any level) and let them talk with other elfs, after a while they will be able to conjure 10 feather wood logs for you to use, 1 day cooldown. High Elves make up about 4% of the elf population and always occupy leadership roles, have FUN finding them
 
-* Kobolds: Now evolved from their savage, thieving cousins. They’ve developed a dragon-centered culture and language. In the future, I plan to modify vanilla dragons so they can take leadership roles and become these kobold's overlord. For now, though, only kobolds appear in the kobold civilization—and vanilla kobolds are now called “Cave Kobolds.”
+* Kobolds: Now evolved from their savage, thieving cousins. They’ve developed a dragon-centered culture and language. In the future, I plan to modify vanilla dragons so they can take leadership roles and become these kobold's overlord. For now, though, only kobolds appear in the kobold civilization, and vanilla kobolds are now called “Cave Kobolds.”
 
 ### 5. Graphics & World Map
 
