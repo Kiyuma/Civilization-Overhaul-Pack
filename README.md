@@ -50,4 +50,5 @@ This mod is for personal and community testing. No explicit license—use at you
 
 * **v1.0**: Initial release with core overhaul and playable races.
 * **v1.1**: Fixed a tissue error and adjusted elf handling by replacing their civilization while preserving renamed vanilla elves for artwork consistency.
+* **v1.2**: Fixed some weird book title and updated info.txt properly
 ---
