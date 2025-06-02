@@ -52,4 +52,5 @@ This mod is for personal and community testing. No explicit license—use at you
 * **v1.1**: Fixed a tissue error and adjusted elf handling by replacing their civilization while preserving renamed vanilla elves for artwork consistency.
 * **v1.2**: Fixed some weird book title and updated info.txt properly
 * **v1.3**: Increased max staring civ number of all races closer to vanilla number, and add additional jobs and reactions for human so they can actually make everything except steel, coke and candy metal
+* **v1.4**: Added additional translation, which solved the problem with nameless histfigs in worldgen, also some minor bug fix.
 ---
